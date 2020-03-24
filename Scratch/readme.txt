@@ -1,0 +1,1 @@
+Scratch folder to hold temporary datasets
