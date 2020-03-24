@@ -1,1 +1,15 @@
+#Jupyter batch files
 *.bat
+
+#Checkpoints
+Notebooks/.ipynb_checkpoints/*
+
+#NREL key
+Notebooks/NREL_key.txt
+
+#Data
+Data/MJBA/Exits.*
+Data/NREL/DCFC.csv
+Data/HIFLD/Substations.*
+Data/exits_flood.*
+Data/exits_with_flood.csv
