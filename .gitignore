@@ -13,3 +13,4 @@ Data/NREL/DCFC.csv
 Data/HIFLD/Substations.*
 Data/exits_flood.*
 Data/exits_with_flood.csv
+Data/processed/*
