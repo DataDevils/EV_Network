@@ -17,3 +17,4 @@ Data/OSM/Amenities.csv
 Data/exits_flood.*
 Data/exits_with_flood.csv
 Data/processed/*
+Notebooks/images/graph.png
